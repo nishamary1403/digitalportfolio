@@ -1,0 +1,164 @@
+.Kids
+{
+  color: #fff;
+  text-align: center;
+}
+
+
+.background-image{
+    background-image: url('img3.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:scroll;
+    width: 900x;
+    height: 100px;
+   
+}
+#header
+{  text-shadow: 2px 2px greenyellow;
+    margin-top: 21%;
+    padding-left: 85%;
+    color: rgb(71, 126, 199);
+  text-shadow: 1px 1px 3px black, 0 0 30px rgb(8, 146, 26), 0 0 10px rgb(10, 156, 42);
+}
+.nav
+{
+    margin-top:2%;
+    padding-left: 35%; 
+}
+#background-image{
+    background-image: url('img2.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    width: 100px;
+    height: 100px;
+   
+}
+.poem-container {
+  align-content: center;
+  height: 990px;
+  width: 500px;
+  margin: 0 auto;
+  padding-left: 30%;
+  background-color: hsl(44, 46%, 65%);
+  border-radius: 30px;
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+}
+.poem {
+  font-size: 1.2em;
+  line-height: 0.5cm;
+  text-align: center;
+}
+  
+.fornt
+{
+    margin-top:20%;
+    padding-left: 95%;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+  }
+.content
+{
+  margin-top:20%;
+    padding-left:60%;
+    width: 200px;
+    height: 125px;
+    text-align: center;
+    border: 100%;
+}
+header {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  text-align: right;
+  padding: 20px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+header a {
+  color: #fff;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.container {
+  max-width: 800px;
+  margin: 120px auto 20px;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+header a{
+  text-decoration: none;
+  color: #fff;
+  font-family: Arial;
+  font-weight: bold;
+  transition: 0.4s ease-in-out;
+}
+header a:hover{
+  color:#00a2ff;
+}
+
+     .form{
+      width: 250px;
+      height: 250px;
+      background: linear-gradient(to top,rgba(146, 58, 58, 0.678)50%,rgba(105, 31, 31, 0.8)50%);
+      position: absolute;
+      top: 450px;
+      left: 1100px;
+      border-radius: 20px;
+      padding: 25px;
+      margin-left: 12%;
+
+  }
+  .form h2{
+   width: 200px;
+   font-family:sans-serif ;
+   text-align: center;
+   color: #00a2ff;
+   font-size: 22px;
+   background-color: #fff;
+   border-radius: 10px;
+   margin: 2px;
+   padding:5px;
+
+  }
+  .form input{
+      width: 240px;
+      height: 35px;
+      padding-left: 95%;
+      background:transparent ;
+      border-bottom: 1px solid #00a2ff;
+      border-top: none;
+      border-right: none;
+      border-left: none;
+      color: #fff;
+      font-size: 15px;
+      letter-spacing: 1px;
+      margin-top: 15px;
+      font-family: sans-serif;
+
+  }
+  .form input:focus{
+      outline: none;
+  }
+  .footer
+  {
+  margin-top:20%;
+color: #fff;
+  }
+  .Gif{
+    max-width: 200px;
+  
+    margin-top:-990px ;
+    margin-left:520px ;
+            
+            
+            height: auto;
+  }
